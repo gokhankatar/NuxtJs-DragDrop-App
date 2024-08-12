@@ -58,25 +58,25 @@ bun install
 ``` 
 ## 4.Run Project
 
-# npm
+### npm
 
 ```sh
 npm run dev
 
 ```
-# pnpm
+### pnpm
 
 ```sh
 pnpm run dev
 
 ```
-# yarn
+### yarn
 
 ```sh
 yarn run dev
 
 ```
-# bun
+### bun
 
 ```sh
 bun run dev
