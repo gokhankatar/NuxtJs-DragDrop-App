@@ -32,25 +32,25 @@ cd .\NuxtJs-DragDrop-App\
 ``` 
 ## 3.Install Dependencies
 
-# npm
+### npm
 
 ```sh
 npm install
 
 ```
-# pnpm
+### pnpm
 
 ```sh
 pnpm install
 
 ```
-# yarn
+### yarn
 
 ```sh
 yarn install
 
 ```
-# bun
+### bun
 
 ```sh
 bun install
