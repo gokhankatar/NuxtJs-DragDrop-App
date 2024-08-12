@@ -23,11 +23,15 @@
 ```sh
 git clone https://github.com/gokhankatar/NuxtJs-DragDrop-App
 
+
+```
+## 2.Go directory
+
 ```sh
 cd .\NuxtJs-DragDrop-App\
 
 ``` 
-## 2.Install Dependencies
+## 3.Install Dependencies
 
 ```sh
 npm install
@@ -43,7 +47,7 @@ bun install
 
 ``` 
 
-## 3.Run Project
+## 4.Run Project
 
 ```sh
 npm run dev
