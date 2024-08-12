@@ -18,17 +18,13 @@
 
 <img src="/screenshots/mobile.png" />
 
-To clone the repository, run the following command:
-
-```sh
-git clone https://github.com/gokhankatar/follow-yourself
-
-``` 
 ## 1.Clone Repository
 
 ```sh
-cd .\follow-yourself\
+git clone https://github.com/gokhankatar/NuxtJs-DragDrop-App
 
+```sh
+cd .\NuxtJs-DragDrop-App\
 
 ``` 
 ## 2.Install Dependencies
